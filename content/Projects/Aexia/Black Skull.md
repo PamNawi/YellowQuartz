@@ -38,8 +38,8 @@ The obtained results can be observed as follows:
 ![[BlackSkullCrewQuarters.png]]
 
 ## The Storage Room
-The storage room is a grid of 3x1 SETs positioned in a straight line full of knick-knacks the pirates pilled during their adventures. This is the place where the quartermaster kept the finances would supervises the the supplies and provisions for the ship. This group of SETs use the environment created by [MystiqueX on Devianart](https://www.deviantart.com/mystiquex/art/Pirate-Ship-Screenshot-3-195596358) as reference: 
-![[Pasted image 20240212174116.png]]
+The storage room is a grid of 2x1 SETs positioned in a straight line full of knick-knacks the pirates pilled during their adventures. This is the place where the quartermaster kept the finances would supervises the the supplies and provisions for the ship. This group of SETs use the environment created by [MystiqueX on Devianart](https://www.deviantart.com/mystiquex/art/Pirate-Ship-Screenshot-3-195596358) as reference: 
+![[MystiqueX PirateShip.png]]
 
 The results from this exploration can be seen as follow:
 ![[BlackSkullStorageRoom1.png]]![[BlackSkullStorageRoom2.png]]![[BlackSkullStorageRoom3.png]]

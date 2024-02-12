@@ -3,6 +3,6 @@ The Beautiful Corners are groups of 4 SETs, which are small cubic spaces with 5 
 # Stellar Medisynth Hub
 
 A state-of-the-art medical laboratory that pushes the boundaries of science and nature beyond the reaches of the cosmos. At its core stands a colossal, bioluminescent tree, intricately integrated with high-tech medical apparatus. 
-
-![[Sci-FiIcon.png]]
-
+![[ScifiCorner3.png]]
+![[ScifiCorner1.png]]
+![[ScifiCorner2.png]]
