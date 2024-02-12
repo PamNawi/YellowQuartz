@@ -32,6 +32,7 @@ In contrast with the opulent captain's quarter, the crew's quarters are humble w
 
 ![[Plimoth Mayflower Sleeping Quarters.png]]
 
+
 The obtained results can be observed as follows:
 
 ![[BlackSkullCrewQuarters.png]]
