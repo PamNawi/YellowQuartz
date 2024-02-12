@@ -29,17 +29,18 @@ Since this environment is closed and very poor illuminated it was used a blue li
 ![[BlackSkullCaptainQuarters2.png]]
 ## The Crew Quarters
 In contrast with the opulent captain's quarter, the crew's quarters are humble with bunk beds, smaller chests and a messy table with wine bottles. Its based on real life examples like the photo from [Constantine Gregory](https://fineartamerica.com/featured/plimoth-mayflower-sleeping-quarters-constantine-gregory.html) from the Plimoth Mayflower Sleeping Quarters:
+
 ![[Plimoth Mayflower Sleeping Quarters.png]]
+
 The obtained results can be observed as follows:
+
 ![[BlackSkullCrewQuarters.png]]
 
 ## The Storage Room
 The storage room is a grid of 3x1 SETs positioned in a straight line full of knick-knacks the pirates pilled during their adventures. This is the place where the quartermaster kept the finances would supervises the the supplies and provisions for the ship. This group of SETs use the environment created by [MystiqueX on Devianart](https://www.deviantart.com/mystiquex/art/Pirate-Ship-Screenshot-3-195596358) as reference: 
 ![[Pasted image 20240212174116.png]]
+
 The results from this exploration can be seen as follow:
-
 ![[BlackSkullStorageRoom1.png]]![[BlackSkullStorageRoom2.png]]![[BlackSkullStorageRoom3.png]]
-
 ## The others SETs on Black Skull
-
 The other SETs where created by other member from the team and I just helped by doing some minor adjustments on the angles on objects and creating the necessary textures.
