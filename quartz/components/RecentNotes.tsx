@@ -5,11 +5,11 @@ import { byDateAndAlphabetical } from "./PageList"
 import style from "./styles/recentNotes.scss"
 import { Date, getDate } from "./Date"
 import { GlobalConfiguration } from "../cfg"
-import { i18n } from "../i18n"
+import { i18n } from "../i18n/i18next"
 import { classNames } from "../util/lang"
 
 interface Options {
-  title?: string
+  title: string
   limit: number
   linkToMore: SimpleSlug | false
   filter: (f: QuartzPluginData) => boolean
@@ -17,6 +17,7 @@ interface Options {
 }
 
 const defaultOptions = (cfg: GlobalConfiguration): Options => ({
+  title: "Recent Notes",
   limit: 3,
   linkToMore: false,
   filter: () => true,
@@ -30,10 +31,10 @@ export default ((userOpts?: Partial<Options>) => {
     const remaining = Math.max(0, pages.length - opts.limit)
     return (
       <div class={classNames(displayClass, "recent-notes")}>
-        <h3>{opts.title ?? i18n(cfg.locale).components.recentNotes.title}</h3>
+        <h3>{opts.title}</h3>
         <ul class="recent-ul">
           {pages.slice(0, opts.limit).map((page) => {
-            const title = page.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
+            const title = page.frontmatter?.title
             const tags = page.frontmatter?.tags ?? []
 
             return (
@@ -71,7 +72,11 @@ export default ((userOpts?: Partial<Options>) => {
         {opts.linkToMore && remaining > 0 && (
           <p>
             <a href={resolveRelative(fileData.slug!, opts.linkToMore)}>
-              {i18n(cfg.locale).components.recentNotes.seeRemainingMore({ remaining })}
+              {" "}
+              {i18n(cfg.locale, "recentNotes.seeRemainingMore", {
+                remaining: remaining.toString(),
+              })}{" "}
+              →
             </a>
           </p>
         )}

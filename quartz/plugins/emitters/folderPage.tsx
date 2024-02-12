@@ -10,7 +10,7 @@ import {
   FilePath,
   FullSlug,
   SimpleSlug,
-  stripSlashes,
+  _stripSlashes,
   joinSegments,
   pathToRoot,
   simplifySlug,
@@ -18,8 +18,6 @@ import {
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { FolderContent } from "../../components"
 import { write } from "./helpers"
-import { i18n } from "../../i18n"
-import DepGraph from "../../depgraph"
 
 export const FolderPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpts) => {
   const opts: FullPageLayout = {
@@ -37,13 +35,6 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpt
     name: "FolderPage",
     getQuartzComponents() {
       return [Head, Header, Body, ...header, ...beforeBody, pageBody, ...left, ...right, Footer]
-    },
-    async getDependencyGraph(_ctx, _content, _resources) {
-      // Example graph:
-      // nested/file.md --> nested/file.html
-      //          \-------> nested/index.html
-      // TODO implement
-      return new DepGraph<FilePath>()
     },
     async emit(ctx, content, resources): Promise<FilePath[]> {
       const fps: FilePath[] = []
@@ -66,16 +57,13 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpt
           folder,
           defaultProcessedContent({
             slug: joinSegments(folder, "index") as FullSlug,
-            frontmatter: {
-              title: `${i18n(cfg.locale).pages.folderContent.folder}: ${folder}`,
-              tags: [],
-            },
+            frontmatter: { title: `Folder: ${folder}`, tags: [] },
           }),
         ]),
       )
 
       for (const [tree, file] of content) {
-        const slug = stripSlashes(simplifySlug(file.data.slug!)) as SimpleSlug
+        const slug = _stripSlashes(simplifySlug(file.data.slug!)) as SimpleSlug
         if (folders.has(slug)) {
           folderDescriptions[slug] = [tree, file]
         }
@@ -94,7 +82,7 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpt
           allFiles,
         }
 
-        const content = renderPage(cfg, slug, componentData, opts, externalResources)
+        const content = renderPage(slug, componentData, opts, externalResources)
         const fp = await write({
           ctx,
           content,

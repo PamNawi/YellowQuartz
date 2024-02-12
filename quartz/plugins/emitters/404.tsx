@@ -8,8 +8,6 @@ import { sharedPageComponents } from "../../../quartz.layout"
 import { NotFound } from "../../components"
 import { defaultProcessedContent } from "../vfile"
 import { write } from "./helpers"
-import { i18n } from "../../i18n"
-import DepGraph from "../../depgraph"
 
 export const NotFoundPage: QuartzEmitterPlugin = () => {
   const opts: FullPageLayout = {
@@ -28,9 +26,6 @@ export const NotFoundPage: QuartzEmitterPlugin = () => {
     getQuartzComponents() {
       return [Head, Body, pageBody, Footer]
     },
-    async getDependencyGraph(_ctx, _content, _resources) {
-      return new DepGraph<FilePath>()
-    },
     async emit(ctx, _content, resources): Promise<FilePath[]> {
       const cfg = ctx.cfg.configuration
       const slug = "404" as FullSlug
@@ -38,12 +33,11 @@ export const NotFoundPage: QuartzEmitterPlugin = () => {
       const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
       const path = url.pathname as FullSlug
       const externalResources = pageResources(path, resources)
-      const notFound = i18n(cfg.locale).pages.error.title
       const [tree, vfile] = defaultProcessedContent({
         slug,
-        text: notFound,
-        description: notFound,
-        frontmatter: { title: notFound, tags: [] },
+        text: "Not Found",
+        description: "Not Found",
+        frontmatter: { title: "Not Found", tags: [] },
       })
       const componentData: QuartzComponentProps = {
         fileData: vfile.data,
@@ -57,7 +51,7 @@ export const NotFoundPage: QuartzEmitterPlugin = () => {
       return [
         await write({
           ctx,
-          content: renderPage(cfg, slug, componentData, opts, externalResources),
+          content: renderPage(slug, componentData, opts, externalResources),
           slug,
           ext: ".html",
         }),
