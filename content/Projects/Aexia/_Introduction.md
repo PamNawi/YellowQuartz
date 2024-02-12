@@ -2,9 +2,9 @@ I worked from July 2022 until February 2024 on [Aexia](https://store.steampowere
 
 As a level designer made three subprojects:
 
-[[Beautiful Corners]]
-[[Black Skull]]
-[[Premade SETs and Maps List]]
+- [[Beautiful Corners]]
+- [[Black Skull]]
+- [[Premade SETs and Maps List]]
 
 Some challenges for creating maps inside Aexia that should be noticed:
 - A map inside Aexia are a group of SETs, which are cubicles with 5x5x5 meters and when they are placed beside each other they combine by removing the walls between them.
