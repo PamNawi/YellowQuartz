@@ -4,7 +4,7 @@ As a level designer participated on three subprojects:
 
 - [[Beautiful Corners]]
 - [[Black Skull]]
-- [[Premade SETs and Maps List]]
+- [[Premade SETs and Maps]]
 
 Some challenges for creating maps inside Aexia that should be noticed:
 - A map inside Aexia are a group of SETs, which are cubicles with 5x5x5 meters and when they are placed beside each other they combine by removing the walls between them.
