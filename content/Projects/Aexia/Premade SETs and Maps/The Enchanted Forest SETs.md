@@ -1,1 +1,0 @@
-The Enchanted Forest is a group of premade SETs with a forest theme for quick setting up. Each SET can be used alone or to populate larger areas. The SETs from this have small storytelling bits and pieces that can be used by both Game Masters and players to move the story forward.

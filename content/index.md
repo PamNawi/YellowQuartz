@@ -1,10 +1,10 @@
 ---
 title: s2KawaiiDesu-Home
 ---
-## Bem vindo à s2KawaiDesu
+## Bem vindo ao Yellow Quartz
 
+This is a digital garden created and mainted by Pâmela de Assis Beltrani, on this corner on internet I post everything that I'm creating and studying. I do create and study game development both as a programmer and a level designer, you can check my [[Projects Index]] note to have a look on it.
 
-
-Por essa razão, estamos optando por criar um repositório utilizando o software [obsidian.md](https://obsidian.md) com  [Quartz 4.0](https://quartz.jzhao.xyz) que nos ajuda a transformar as notas em um site. A estrutura desse repositório é baseada no método [Zettelkasten](https://zettelkasten.de) onde notas são conectadas através de links.
+I choose to create a digital garden using  [obsidian.md](https://obsidian.md) with [Quartz 4.0](https://quartz.jzhao.xyz) since is easy to maintain and I can have control over both the content and the structure presented. You can use both the Graph view and the folder structure on the lateral to navigate the digital garden. Enjoy your exploration.
 
 #Home #WelcomePage

@@ -5,3 +5,4 @@ For the maps the plan was to build maps to teach how the SETs could be combined 
 - [[Radiant Citadel]]
 - [[Ebon Rest Sanctuary]]
 - [[The Enchanted Forest SETs]]
+- [[Modern House and Cafe]]
