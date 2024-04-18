@@ -1,6 +1,6 @@
-Tags: #BindingOfIsaac #ProceduralGeneration #DungeonGeneration
+Tags: #BindingOfIsaac #ProceduralGeneration #DungeonGeneration #LevelDesign 
 <h2>Question: </h2>
-How binding of isaac does their dungeon generation?
+How Binding of Isaac does their dungeon generation?
 
 <h2>Answer:</h2>
 There's a number of square rooms that are connected adjacently to each other, some of this rooms are special: shops, rewards and boss rooms and with the exception of the secret room, there's no loops in the dungeon.

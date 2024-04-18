@@ -1,4 +1,4 @@
-Tags: #WaveFunctionCollapse #ProceduralGeneration #DungeonGeneration
+Tags: #WaveFunctionCollapse #ProceduralGeneration #DungeonGeneration #LevelDesign 
 <h2>Question: </h2>
 What is Wave Function Collapse (WFC)?
 <h2>Answer:</h2>

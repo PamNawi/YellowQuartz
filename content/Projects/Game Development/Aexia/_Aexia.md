@@ -1,3 +1,5 @@
+Tags: #Aexia #Projects #GameDevelopment #LevelDesign 
+
 I worked from July 2022 until February 2024 on [Aexia](https://store.steampowered.com/app/2480260/Aexia/) which is a platform for creating, sharing and play playing VR role-playing games. I worked originally as a programmer, but I worked also as a scrum master, product owner and later on 2023 I worked as a level designer.
 
 As a level designer participated on three subprojects:

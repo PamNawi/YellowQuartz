@@ -1,6 +1,6 @@
 Tags: #ProceduralGeneration #AnastasiaOpara
 <h2>Question: </h2>
-How Anastasia thinks and plan composition on procedural generation? So we don't have something boring to look at
+How Anastasia thinks and plan composition on procedural generation? So we don't have something boring to look at...
 <h2>Answer:</h2>
 
 <h2>Highlight:</h2>

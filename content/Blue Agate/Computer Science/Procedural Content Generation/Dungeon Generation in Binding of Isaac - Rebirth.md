@@ -1,4 +1,4 @@
-Tags: #BindingOfIsaac #ProceduralGeneration #DungeonGeneration
+Tags: #BindingOfIsaac #ProceduralGeneration #DungeonGeneration #LevelDesign 
 <h2>Question: </h2>
 What is the difference between the original version and the rebirth version for the procedural generation
 

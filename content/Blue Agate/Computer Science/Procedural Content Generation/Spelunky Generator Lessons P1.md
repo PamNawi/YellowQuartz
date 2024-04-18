@@ -1,4 +1,4 @@
-Tags: #Spelunky #ProceduralGeneration #DungeonGeneration
+Tags: #Spelunky #ProceduralGeneration #DungeonGeneration #LevelDesign 
 <h2>Question: </h2>
 How spelunky level generation works?
 

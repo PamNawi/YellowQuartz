@@ -1,3 +1,5 @@
+Tags: #Aexia #Projects #GameDevelopment #LevelDesign  #BlackSkull
+
 ![[BlackSkull.png | 300 ]]
 
 A pirate ship transformed into a mysterious crime scene for detectives daring enough to uncover a murder. This map is made of 18 SETs, which are small cubic spaces with 5 meters, where players with their own personal objectives also should investigate a crime scene.

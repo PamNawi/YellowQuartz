@@ -1,4 +1,4 @@
-Tags: #Spelunky #ProceduralGeneration #RoomGeneration
+Tags: #Spelunky #ProceduralGeneration #RoomGeneration #LevelDesign 
 <h2>Question: </h2>
 How spelunky generate each individual room inside a level?
 
