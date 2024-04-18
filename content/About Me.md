@@ -4,4 +4,4 @@ My journey in programming has been enriched by diverse projects, from predicting
 
 Recently, I've delved into the exciting realm of game design as a Level Designer at Strawberry Fields Inc, contributing to immersive 3D environments for games like Aexia. My work is not just about coding; it's about crafting experiences that captivate and inspire.
 
-You can check my [[Game Development Projects]] folder to see my latest creations on this.
+You can check my [[Game Development Projects List]] note to see my latest creations on this.
