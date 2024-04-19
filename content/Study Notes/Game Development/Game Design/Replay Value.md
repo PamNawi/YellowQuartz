@@ -18,7 +18,7 @@ Game developers has increased the replayability value of games in several ways:
 - Multiple Endings
 - And just creating a good game in general
 
-The concept of Replay Value justaposes the concept of Fake Longevity because the Replay Value add the fun factor on this.
+The concept of Replay Value juxtaposes the concept of Fake Longevity because the Replay Value add the fun factor on this.
 
 <h2>References</h2>
 https://en.wikipedia.org/wiki/Replay_value
