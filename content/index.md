@@ -1,7 +1,7 @@
 ---
-title: s2KawaiiDesu-Home
+title: Blue Agate Home
 ---
-## Welcome to Yellow Quartz
+## Welcome to Blue Agate
 
 This is a digital garden created and maintained by Pâmela de Assis Beltrani, on this corner on internet I post everything that I'm creating and studying. I do create and study game development both as a programmer and a level designer, you can check my [[Game Development Projects List]] note to have a look on it.
 
