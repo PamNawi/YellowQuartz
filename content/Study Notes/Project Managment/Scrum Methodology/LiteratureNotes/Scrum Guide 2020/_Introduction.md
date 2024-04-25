@@ -1,3 +1,5 @@
+Tags: #Scrum #ScrumGuide
+
 The purpose of the Scrum Guide is to contain the definition of Scrum. 
 Scrum is a lightweight framework that helps people, teams and organizations generate value though adaptive solutions for complex problems.
 

@@ -1,4 +1,4 @@
-Tags: #Art #Perception #Balance #RudolphArnheim
+Tags: #Art #Perception #Balance #RudolphArnheim #Composition 
 
 _"No object is perceived as unique or isolated. Seeing something involves assigning it a place in the whole: a location in space, a score on the scale of size or brightness or distance."_
 

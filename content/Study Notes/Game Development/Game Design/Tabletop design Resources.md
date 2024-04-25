@@ -1,3 +1,4 @@
+Tags: #Tabletop #GameDesign #GameDevelopment #TTRPG #ResourcesForGameDev
 Post copy from Elo#2174 on [TTRPG Game Development Discord](https://discord.gg/P5DBT9cZ)
 
 As a primer for those of us writing games. Stand on the shoulders of giants. **First, an assertion of truth:** We play games to have fun. Game design is about providing tools and structure to support one or more Fun Things.

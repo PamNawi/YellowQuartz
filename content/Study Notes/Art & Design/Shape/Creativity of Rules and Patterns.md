@@ -1,4 +1,4 @@
-Tags: #Shapes #Patterns
+Tags: #Shapes #Patterns #Composition 
 
 What is appealing and what is boring?
 - Humans are a pattern addicts

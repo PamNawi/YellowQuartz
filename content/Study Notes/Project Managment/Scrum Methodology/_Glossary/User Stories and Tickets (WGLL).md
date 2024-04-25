@@ -1,3 +1,5 @@
+Tags: #Scrum #UserStories
+
 **User Stories and Tickets What Good Looks Like (WGLL)**
 
 
