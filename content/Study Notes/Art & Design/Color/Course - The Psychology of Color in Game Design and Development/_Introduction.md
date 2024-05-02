@@ -46,5 +46,5 @@ On this section is presented different color schemes used inside games with exam
 - [[9. Creating your own Palettes]]
 
 Recommendation for this module:
-[Color Theory in Level Design - Valve Wiki](https://developer.valvesoftware.com/wiki/Color_Theory_in_Level_Design)
-[Design Study: Josef Albers & Color Relativity](https://www.bagtazocollection.com/blog/2015/11/5/design-study-josef-albers-color-relativity)
+- [Color Theory in Level Design - Valve Wiki](https://developer.valvesoftware.com/wiki/Color_Theory_in_Level_Design)
+- [Design Study: Josef Albers & Color Relativity](https://www.bagtazocollection.com/blog/2015/11/5/design-study-josef-albers-color-relativity)
