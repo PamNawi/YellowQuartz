@@ -1,4 +1,4 @@
-Tags: #Art #ColorTheory #LevelDesign #GameDesign #Courses #WarmColors #Bioshock3 #Composition 
+#Art #ColorTheory #LevelDesign #GameDesign #Courses #WarmColors #Bioshock3 #Composition 
 
 ![[Pasted image 20240427210039.png]]
 
