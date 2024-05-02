@@ -34,5 +34,17 @@ A [good friend](https://ricardojuchem.com/ "https://ricardojuchem.com/") recomme
 ⭐⭐⭐⭐⭐**✔️**
 On this section is presented different color schemes used inside games with examples
 
-Recommendation of lecture:
+- [[1. Different Functions of Color in Games]]
+- [[2. Different Palettes]]
+- Exercise: [[Bioshock 3 - Scene Analysis]]
+- [[3. Color as an Identifier]]
+- [[4. Glyphs and Neutrals]]
+- [[5. Color Layouts]]
+- [[6. Using 2 Color Identifiers]]
+- [[7. Using 3 or More Color Identifiers]]
+- [[8. Content Variation]]
+- [[9. Creating your own Palettes]]
+
+Recommendation for this module:
 [Color Theory in Level Design - Valve Wiki](https://developer.valvesoftware.com/wiki/Color_Theory_in_Level_Design)
+[Design Study: Josef Albers & Color Relativity](https://www.bagtazocollection.com/blog/2015/11/5/design-study-josef-albers-color-relativity)
