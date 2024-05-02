@@ -1,3 +1,4 @@
+#LevelDesign #GameDesign #Courses 
 
 This is a course that I'm taking during April 2024 titled "The Basics of Level Design". This course should take around 3 months to be done, but I made on 3 days. The notes taken for this course can be sawn on the following list:
 

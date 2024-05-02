@@ -1,3 +1,5 @@
+#LevelDesign #GameDesign #Courses 
+
 This is a course that I'm taking during April 2024 titled "Types of Games in Level Design". This course should take around 1 month to be done. The notes taken for this course can be sawn on the following list:
 
 # Week 1: *Platformers*
