@@ -1,0 +1,9 @@
+#LevelDesign #GameDesign #Courses #TypesOfGamesInLevelDesign #Strategy 
+
+
+The player should start within reach of enough resources to build their base and some units. There should be enough resources on the map so the players has a equal opportunity to gather resources and expand. One solution for this is presented on Age of Empires II, where the players are at the corner of the map, within reach a moderate resources and will need to expand at some point. If a map has fewer resources, or even resources that are more difficult to harvest, will generate competition and encourage new strategies
+
+The balance is also defined by where the players will start their game. The idea here is that the players should have safe access to initial resources and enough space to build at least a few buildings before having to expand to a new resource cache. This means that the players should be spread far enough from their opponents, so they have a natural space to develop before they engage in a full-on combat. If two players spawn close to each other, they will probably enter on conflict early on, this can promote a "rushing" strategy.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eU4ghb45gU4?si=9MIplMVCJaLveHvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+The size of the map also influences the pace of the game since the units will take longer to navigate. This also makes reinforcing an attacking force or returning to defend a base more difficult. This rewards that if a player is spying on another player's base they may have time to effectively anticipate and counter their opponent's strategies.

@@ -19,20 +19,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Backlinks()),
 	  ],
   right: [
+    Component.Darkmode(),
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-	Component.RecentNotes({ title: "Notas Recentes", limit: 5, linkToMore: "tags/components" }),
+    Component.Search(),
+    Component.TagList(),
   ],
 }
 
