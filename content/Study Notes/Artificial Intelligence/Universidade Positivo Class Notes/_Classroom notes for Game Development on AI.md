@@ -8,6 +8,7 @@ tags:
   - ResourcesForGameDev
   - "#Positivo"
   - "#ptbr"
+  - "#ComputerScience"
 title: Classroom notes for Game Development on AI
 aliases:
   - Artificial Intelligence

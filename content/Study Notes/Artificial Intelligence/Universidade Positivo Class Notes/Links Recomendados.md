@@ -104,7 +104,7 @@ aliases:
 - [Pokemon Artificial Intelligence Is Smarter Than You](http://hackaday.com/2014/05/19/pokemon-artificial-intelligence-is-smarter-than-you/)
 
 # Árvores de Comportamento
-- [WTF Is? AI: Behavior Tree in Unreal Engine 4 > [](https://www.youtube.com/watch?v=bsDT95UdPbc)
+- [WTF Is? AI: Behavior Tree in Unreal Engine 4](https://www.youtube.com/watch?v=bsDT95UdPbc)
 - [Behavior trees for AI : How they work](http://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php)
 - [Managing AI in Gigantic](https://gamedevdaily.io/managing-ai-in-gigantic-523dc84763cf)
 - [Are Behavior Trees a Thing of the Past](http://www.gamasutra.com/blogs/JakobRasmussen/20160427/271188/Are_Behavior_Trees_a_Thing_of_the_Past.php)
