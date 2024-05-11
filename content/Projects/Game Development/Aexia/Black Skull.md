@@ -1,4 +1,11 @@
-Tags: #Aexia #Projects #GameDevelopment #LevelDesign  #BlackSkull
+---
+tags:
+  - Aexia
+  - Projects
+  - GameDevelopment
+  - LevelDesign
+  - BlackSkull
+---
 
 ![[BlackSkull.png | 300 ]]
 

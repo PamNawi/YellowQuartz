@@ -1,5 +1,8 @@
-Tags: #Scrum #UserStories
-
+---
+tags:
+  - Scrum
+  - UserStories
+---
 User stories are short descriptions of a feature explained from the perspective of the User. Normally when writing user stories we go through a tree step process referred as the three Cs:
 
 - Card: Usually a post-it or similar size. While less often used today the main idea of the card remains the same. You need to be brief.The template for a User Story normally is:
@@ -16,8 +19,6 @@ The items inside a product backlog are more like a reminder of what needs to be 
 We commonly refer if the story has been completed.
 
 Its okay and common to have different formats in the same backlog. The scrum guide makes no references about user stories and they are not mandatory in Scrum.
-<h2>References</h2>
-https://www.scrum.org/resources/scrum-glossary
-https://scrumguides.org/scrum-guide.html
-<h2>Internal Links</h2>
-#Scrum 
+## References
+- [Scrum Glossary](https://www.scrum.org/resources/scrum-glossary)
+- [Scrum Guide](https://scrumguides.org/scrum-guide.html)

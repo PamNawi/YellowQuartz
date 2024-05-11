@@ -1,5 +1,11 @@
-Tags: #Art #Perception #Balance #RudolphArnheim #Composition 
-
+---
+tags:
+  - Art
+  - Perception
+  - Balance
+  - RudolphArnheim
+  - Composition
+---
 _"No object is perceived as unique or isolated. Seeing something involves assigning it a place in the whole: a location in space, a score on the scale of size or brightness or distance."_
 
 _"We do not establish sizes, distances, directions singly and then compare them piece by piece. Typically we see these characteristics as properties of the total visual field"_
@@ -22,9 +28,3 @@ If a influence from a particular direction predominates, this results a pull in 
 We shall have many occasions to observe that physical and psychological systems exhibit a very general tendency to change in direction of the lowest attainable tension level, normally the reduction of tension can be obtained when elements of visual patterns can give in to the directed perceptual forces inherent in them
 <h2>Questions:</h2>
 When I look at the image for the structural skeleton of a square, I clearly see the 3/4 rule for photography. I'm right on this?
-
-<h2>Highlight:</h2>
-<h2>Reference: </h2>
-
-
-<h2>Internal Links:</h2>

@@ -1,4 +1,9 @@
-Tags: #ConstraintProgramming #ProceduralGeneration #ComputerScience 
+---
+tags:
+  - ConstraintProgramming
+  - ProceduralGeneration
+  - ComputerScience
+---
 Constraint programming is a way of instructing computers, you enter  rigorously defined problem, and then the compute uses built in algorithms to find the solution.
 
 **Variables:** A unknown value that we want to find a solution for. 
@@ -14,10 +19,8 @@ In more complex problems is common that, at some point on the problem solving, t
 
 Every time that the algorithm does a backtrack, it reduces the domain for at least one variable, so if there's a solution, eventually will be terminating.
 
-<h2>References</h2>
-[Boris the brave - Wave Function Collapse Explained](https://www.boristhebrave.com/2020/04/13/wave-function-collapse-explained/)
-
-There's a open source library on GitHub that can be used for this: [DeBroglie](https://github.com/BorisTheBrave/DeBroglie)
-
-On Unity we can use Tessera: [Tessera](https://assetstore.unity.com/packages/tools/level-design/tessera-procedural-tile-based-generator-155425)
+# References
+- [Boris the brave - Wave Function Collapse Explained](https://www.boristhebrave.com/2020/04/13/wave-function-collapse-explained/)
+- There's a open source library on GitHub that can be used for this: [DeBroglie](https://github.com/BorisTheBrave/DeBroglie)
+- On Unity we can use Tessera: [Tessera](https://assetstore.unity.com/packages/tools/level-design/tessera-procedural-tile-based-generator-155425)
 

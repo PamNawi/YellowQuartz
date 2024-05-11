@@ -1,10 +1,17 @@
-#LevelDesign #GameDesign #Courses 
+---
+tags:
+  - LevelDesign
+  - GameDesign
+  - Courses
+  - TheBasicsOfLevelDesign
+title: Introduction
+---
 # Status: **✔️ Done**
 
 This is a course that I'm taking during April 2024 titled "The Basics of Level Design". This course should take around 3 months to be done, but I made on 3 days. The notes taken for this course can be sawn on the following list:
 
-# Week 1: *Introduction to Level Design* 
-⭐⭐⭐
+# Week 1: *Introduction to Level Design*  
+⭐⭐⭐✔️
 This first module presents the key concepts of level design. It was a good way to learn key words to search for more in depth knowledge on the future.
 
 - [[1. What is Level Design]]
@@ -23,7 +30,7 @@ Extra reading suggested:
 [Ten Principles for a Good Level Design](https://www.gamedeveloper.com/design/ten-principles-of-good-level-design-part-1-)
 
 # Week 2: *Story-based level design and dungeon design*
-⭐
+⭐✔️
 This second module presents how dungeons can be created and created only one note:
 
 [[1. Dungeons and Encounters]]
@@ -34,7 +41,7 @@ Extra reading suggested:
 [Learning From The Masters: Level Design In The Legend of Zelda](https://www.gamedeveloper.com/design/learning-from-the-masters-level-design-in-i-the-legend-of-zelda-i-)
 
 # Week 3: *Beyond dungeons : Roguelikes, Adventure games and RPGs*
-⭐⭐⭐
+⭐⭐⭐✔️
 This third module presents some of foundation games like Rogue and Zork! helped to sediment the future of some mechanics on RPGs.
 
 [[1. Level designer role on  PCG levels]]
@@ -46,8 +53,6 @@ Extra reading suggested:
 # Final Review:
 ⭐⭐
 The course was somewhat good for someone who never studied anything about level design, but for me who already have some training on the area there was little to learn. I got some terms formalized on the first section but the second and the third module where not much useful for me.
-## Internal Links
-#LevelDesign #GameDesign #Courses 
 
 # Reference:
 [The Basics of Level Design](https://learning.edx.org/course/course-v1:LCIEducation+130.1x+3T2023/home)

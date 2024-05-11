@@ -1,10 +1,19 @@
-#LevelDesign #GameDesign #Courses 
+---
+tags:
+  - LevelDesign
+  - GameDesign
+  - Courses
+  - "#TypesOfGamesInLevelDesign"
+title: Introduction
+aliases:
+  - Types of Games in Level Design
+---
 # Status: **✔️ Done**
 
 This is a course that I'm taking during April 2024 titled "Types of Games in Level Design". This course should take around 1 month to be done. The notes taken for this course can be sawn on the following list:
 
 # Week 1: *Platformers*
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐✔️
 How platforming games are designed and the considerations around level design for this type of game.
 
 - [[1. What is a Platformer]]
@@ -19,7 +28,7 @@ Extra reading suggested:
 [Designing fun platforming levels](https://developer.amazon.com/apps-and-games/blogs/2017/12/platforming-level-design-tips)
 
 # Week 2: *Racing Games*
-⭐⭐⭐
+⭐⭐⭐✔️
 How to identify the main elements of a racing game and identify the factors level designers must consider when designing a racing game level. 
 
 It was a very hard to complete, I don't know if cars are just something that I don't care so this translate into the design of the racing games, or it was a lame chapter. The concepts presented on this are important because I didn't know much prior to this tho.
@@ -28,7 +37,7 @@ It was a very hard to complete, I don't know if cars are just something that I d
 - [[2. Important Elements]]
 
 # Week 3: *Strategy Games*
-⭐⭐⭐⭐
+⭐⭐⭐⭐✔️
 How to recognize the unique characteristics of strategy games an the specific elements to take into consideration when designing them.
 
 It has broke my illusion on how level designers
@@ -40,9 +49,8 @@ It has broke my illusion on how level designers
 - [[5. Balance]]
 
 # Week 4: *Different level design*
-⭐
+⭐✔️
 How to classify the different level design considerations that go into various game subgenres
-
 
 My review on this is this chapter for me was so shallow that was hard to even take notes... so I didn't take it... There's two videos recommendations made during this module that I'm placing the link bellow to watch when is necessary
 

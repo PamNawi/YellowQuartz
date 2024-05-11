@@ -1,7 +1,12 @@
-----------------------
-Tags: #AgileManifest #Agile
-
-<h2>The Agile Manifest:</h2>
+---
+tags:
+  - AgileManifest
+  - Agile
+  - "#FeatureCreep"
+  - FindingFunFirst
+  - "#AgileGameDevelopmentWithScrum"
+---
+# The Agile Manifest
 We are uncovering better ways of developing software by doing it and helping others do it.
 
 Through this work we have come to value:

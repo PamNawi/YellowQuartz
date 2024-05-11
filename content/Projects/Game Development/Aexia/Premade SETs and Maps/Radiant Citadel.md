@@ -1,5 +1,10 @@
-Tags: #Aexia #Projects #GameDevelopment #LevelDesign 
-
+---
+tags:
+  - Aexia
+  - Projects
+  - GameDevelopment
+  - LevelDesign
+---
 The Radiant Citadel is a premade map created with the solo objective to have the SETs separated and made into premade SETs for the GMs with a medieval theme. It has 32 SETs with: medieval castle throne, a castle corridor, a closed garden] a small grove, an INN, a kitchen, an apothecary, two bedrooms and war room. The top down view of this map is the following. Each group of SETs will presented after it.
 
 ![[RadiantCitadelTopDown.png]]

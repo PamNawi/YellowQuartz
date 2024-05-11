@@ -1,5 +1,12 @@
-Tags: #DataStructure #ComputerScience
+---
+tags:
+  - DataStructure
+  - ComputerScience
+title: Data Structures
+---
 
-<h2>References:</h2>
+# List of Data Structures Explored
+- [[Graphs]]
 
-<h2>Internal Links:</h2>
+# Insights
+- [[Grid is a Graph]]

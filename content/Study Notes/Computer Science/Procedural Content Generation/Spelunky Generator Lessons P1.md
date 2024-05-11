@@ -1,8 +1,12 @@
-Tags: #Spelunky #ProceduralGeneration #DungeonGeneration #LevelDesign 
-<h2>Question: </h2>
-How spelunky level generation works?
+---
+tags:
+  - Spelunky
+  - ProceduralGeneration
+  - DungeonGeneration
+  - LevelDesign
+---
+# How Spelunky level generation works?
 
-<h2>Answer:</h2>
 Each level is composed by a 4x4 grid with 4 different types of rooms:
 0 : a side room that is not on the solution path
 1: a room that is guaranteed to have a left exit and a right exit
@@ -27,9 +31,9 @@ After the solution path is generated, then the every other cell on the grid that
 
 If there's a 3 or 4 rooms with type 0 making a vertical line, then there's a chance that rooms will become a snake pit. If they turn into a snake pit, you gonna se a sequence made from bottom to top of 7 8 9 or 7 8 8 9. The enemies and the jewels are placed manually by the devs.
 
-<h2>Highlight:</h2>
+## Highlight:
 - Its based on a grid system that creates a solution path with a garantee path for the players with a starting and ending point.
 - Some of the rooms was handcraft and the algorithm place then at the final step
 
-<h2>Reference: </h2>
-http://tinysubversions.com/spelunkyGen/
+## Reference:
+- http://tinysubversions.com/spelunkyGen/

@@ -1,8 +1,8 @@
-Tags: #Scrum #UserStories
-
-**User Stories and Tickets What Good Looks Like (WGLL)**
-
-
+---
+tags:
+  - Scrum
+  - UserStories
+---
 A ticket describing new functionality typically contains:
 
 -   A User Story (Authored by PM/PO in feature/product Brief)

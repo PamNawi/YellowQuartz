@@ -1,4 +1,14 @@
-#ColorTheory #LevelDesign #GameDesign #Courses #Art
+---
+tags:
+  - "#ColorTheory"
+  - "#LevelDesign"
+  - "#GameDesign"
+  - "#Courses"
+  - "#Art"
+title: Introduction
+aliases:
+  - The Psychology of Color Theory in Game Design and Development
+---
 # Status: **✔️ Done**
 
 This is a course that I'm taking on April of 2024 about the usage of Color Theory on Level Design. My intentions is to level up the quality of my work with colors and my understanding on how to create a good color pallet

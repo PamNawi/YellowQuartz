@@ -1,5 +1,9 @@
-Tags: #Scrum #ProductBacklog #Artifact 
-
+---
+tags:
+  - Scrum
+  - ProductBacklog
+  - Artifact
+---
 <mark style="background: #ABF7F7A6;">Is a ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team.</mark>
 
 The backlog can contain new features, improvements, known defects and other changes. It grows with the product itself and changes based on business requirements, market conditions or other relevant factors.
@@ -13,7 +17,7 @@ The backlog can contain new features, improvements, known defects and other chan
 - Value
 - Acceptance Criteria
 
-Product backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event.Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller more precise items.
+Product backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event. Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller more precise items.
 
 Developers who will be doing the work are responsible for the sizing. The Product Owner may influence the Developers by helping them understand and select trade-offs.
 
@@ -21,8 +25,6 @@ Developers who will be doing the work are responsible for the sizing. The Produc
 
 The <mark style="background: #FFB8EBA6;">backlog items that can be done in the next sprint as deemed as ready for selection</mark>. This means that the items are small enough to fit within a sprint, detailed enough and immediately actionable, <mark style="background: #FFB8EBA6;">meaning that the developers can start working on them right away.</mark> A Product backlog item is ready when the scrum team agrees it can be done. 
 
-<h2>References</h2>
-https://www.scrum.org/resources/scrum-glossary
-https://scrumguides.org/scrum-guide.html
-<h2>Internal Links</h2>
-#Scrum #DefinitionOfDone #Increment 
+## References
+- [Scrum Glossary](https://www.scrum.org/resources/scrum-glossary)
+- [Scrum Guide](https://scrumguides.org/scrum-guide.html)

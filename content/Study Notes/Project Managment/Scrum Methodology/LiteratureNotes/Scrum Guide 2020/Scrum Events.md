@@ -1,5 +1,10 @@
-Tags: #Scrum #ScrumEvents #Agile
-
+---
+tags:
+  - Scrum
+  - ScrumEvents
+  - Agile
+  - ScrumGuide
+---
 The Sprint is a container for all others events. Each event in Scrum is a formal opportunity to inspect and adapt Scrum artifacts. These events are specifically designed to enable the transparency required.
 <h4>The Sprint:</h4>
 <mark style="background: #ABF7F7A6;">Time boxed: Maximum 1 calendar month</mark>
@@ -75,3 +80,5 @@ The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of t
 <mark style="background: #ADCCFFA6;">- What worked this sprint?</mark>
 <mark style="background: #ADCCFFA6;">- What could be improved in the next sprint?</mark>
 
+## References
+- [Scrum Guide](https://scrumguides.org/scrum-guide.html)

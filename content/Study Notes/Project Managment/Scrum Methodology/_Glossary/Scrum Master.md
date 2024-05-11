@@ -1,6 +1,10 @@
-Tags: #Scrum #ScrumMaster #ScrumTeam
-
-The Scrum Master is accountable for the Scrum Team’s effectiveness. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework.
+---
+tags:
+  - Scrum
+  - ScrumMaster
+  - ScrumTeam
+---
+The Scrum Master is accountable for the [[Scrum Team]]’s effectiveness. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework.
 
 Scrum Masters are true leaders who serve the Scrum Team and the larger organization.
 
@@ -23,8 +27,6 @@ The Scrum Master serves the organization in several ways, including:
 -   Helping employees and stakeholders understand and enact an empirical approach for complex work
 -   Removing barriers between stakeholders and Scrum Teams.
 
-<h2>References</h2>
-https://www.scrum.org/resources/scrum-glossary
-https://scrumguides.org/scrum-guide.html
-<h2>Internal Links</h2>
-#Scrum 
+## References
+- [Scrum Glossary](https://www.scrum.org/resources/scrum-glossary)
+- [Scrum Guide](https://scrumguides.org/scrum-guide.html)

@@ -1,17 +1,24 @@
-Tags: #Scrum #ScrumTeam #Agile
-
+---
+tags:
+  - Scrum
+  - ScrumTeam
+  - Agile
+  - ScrumGuide
+---
 <mark style="background: #D2B3FFA6;">The Scrum Team consists of one Scrum Master, one Product Owner, and Developers</mark>. Within a Scrum Team, there are no sub-teams or hierarchies.
 
 The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. In general, we have found that smaller teams communicate better and are more productive.
 
 The entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint. Scrum defines three specific accountabilities within the Scrum Team: the Developers, the Product Owner, and the Scrum Master.
-<h4>Developers:</h4>
+
+# [[Developers:]]
 They are accountable for:
 -   Creating a plan for the Sprint, the Sprint Backlog
 -   Instilling quality by adhering to a Definition of Done
--   Adapting their plan eah day toward the Sprint Goal
+-   Adapting their plan each day toward the Sprint Goal
 -   Holding each other accountable as professionals
-<h4>Product Owner:</h4>
+
+# [[Product Owner:]]
  Are accountable for maximizing the value of the product resulting from the work of the Scrum Team. How this is done may vary widely across organizations, Scrum Teams, and individuals.
 
 The Product Owner is also accountable for effective Product Backlog management, which includes:
@@ -22,7 +29,7 @@ The Product Owner is also accountable for effective Product Backlog management, 
 
 <mark style="background: #D2B3FFA6;">The Product Owner is one person</mark>, not a committee. The Product Owner may represent the needs of many stakeholders in the Product Backlog.
 
-<h4>Scrum Master:</h4>
+# [[Scrum Master:]]
 The Scrum Master is accountable for the Scrum Team’s effectiveness. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework.
 
 Scrum Masters are true leaders who serve the Scrum Team and the larger organization.
@@ -45,3 +52,6 @@ The Scrum Master serves the organization in several ways, including:
 -   Planning and advising Scrum implementations within the organization
 -   Helping employees and stakeholders understand and enact an empirical approach for complex work
 -   Removing barriers between stakeholders and Scrum Teams.
+
+## References
+- [Scrum Guide](https://scrumguides.org/scrum-guide.html)
