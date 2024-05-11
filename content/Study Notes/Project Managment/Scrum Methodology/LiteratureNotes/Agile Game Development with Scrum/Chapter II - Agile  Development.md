@@ -5,6 +5,7 @@ tags:
   - "#FeatureCreep"
   - FindingFunFirst
   - "#AgileGameDevelopmentWithScrum"
+  - "#GameDevelopment"
 ---
 # The Agile Manifest
 We are uncovering better ways of developing software by doing it and helping others do it.

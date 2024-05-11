@@ -4,6 +4,7 @@ tags:
   - Patterns
   - Composition
   - "#Question"
+  - "#Art"
 ---
 # What is appealing and what is boring?
 - Humans are a pattern addicts

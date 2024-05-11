@@ -1,9 +1,10 @@
 ---
 tags:
   - DataStructure
-  - Graph
+  - Tree
   - ComputerScience
+  - Arvores
+  - BinaryTree
 aliases:
-  - Grafos
-  - Grafo
+  - Árvores Binárias
 ---

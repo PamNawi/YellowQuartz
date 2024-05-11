@@ -7,6 +7,8 @@ tags:
   - Positivo
   - ResourcesForGameDev
   - RecommendedLinks
+aliases:
+  - Recommended Links for AI
 ---
 # Canais no Youtube
 - [AI & Games](https://www.youtube.com/user/tthompso)

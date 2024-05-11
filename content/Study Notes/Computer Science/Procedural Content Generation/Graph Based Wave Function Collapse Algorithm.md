@@ -5,6 +5,7 @@ tags:
   - DungeonGeneration
   - Graph
   - "#Voronoi"
+  - "#ComputerScience"
 ---
 # There's any way that we can combine Wave Function Collapse tile generation with Voronoi Graphs so we can have more organic content generation?
 
