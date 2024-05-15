@@ -1,19 +1,16 @@
 Github: https://github.com/PamNawi  
 E-mail: pamabeltrani@gmail.com
 
-Knows the following programming languages ​​with projects developed in the following languages: Python, C++, and C#. Also mastered programming using Unity. The known and used libraries were mainly focused on academic use, such as creating graphics, creating prototypes for physical simulations, or even parallel processing.
-
-Developed some smaller side projects also using the following languages: LISP, LUA, and Ruby.
+ Passionate about architecture and level design, taking courses and lessons on this area since last year. Have a strong background as a programmer having more than 10+ years as a Unity developer and worked as a teacher at University.
 
 # Experience
-🍓 **Strawberry Fields — Senior Programmer < Remote > (2022 - 2024)**
-On the late months as an employee she made some maps for [[_Aexia|Aexia]]. During this months she fall in love with level design. Originally she collaborated with a small team to architect, develop and deploy high-quality applications as indicated by the company. She helped to manage and mentor a group of software engineers, while writing a clean, high-quality, high-performance, maintainable code.
+🍓 **Strawberry Fields — Game Developer < Remote > (2022 - 2024)**
+In the late months as an employee she made some maps for [[_Aexia|Aexia]]. During this months she fall in love with level design. Originally she collaborated with a small team to architect, develop and deploy high-quality applications as indicated by the company. She helped to manage and mentor a group of software engineers, while writing a clean, high-quality, high-performance, maintainable code.
 
 💻 **Luminos — Programming Consultancy < Remote > (2020 - 2022)**
 Luminos uses agile methods of development, with weekly remote meetings with the dev team and the client to update how the projects are progressing and to get quick feedback from the client.
 
 - *BG Project (July 2020 - February 2022):*   She acted as a consultant for the BG project, reviving it from scratch in Unity after the original team had faced optimization issues. Her efforts included integrating the project with tractor hardware, utilizing a shader to visualize the tractor's path and product distribution based on real-time GPS data captured by an Android application.
-
 - *Neuro Project (August 2021 - February 2022):*  She served as a consultant for the Neuro project, which utilized VR technology to train medical students. Her responsibilities included creating interfaces for the diagnosis stage and revising all pins used in the interface for the anamnesis and physical exam phases based on client feedback. This involved verifying technical names, pin content, case commentary, screen position, and order for each of the 160 pins. Additionally, she revised, adapted, and debugged the code for each stage, paying close attention to medical details. The project encompassed over 80 cases, with a focus on ensuring Unity interface ease of population by the team.
 
 👩‍🏫 **Universidade Positivo — Teacher < Presencial > (2017 - 2020)**
@@ -35,12 +32,12 @@ Scholarship Holder: Coordination for the Improvement of Higher Education Personn
 Title: Towers of Bymere
 
 👩‍💻**Bachelor's Degree in Computer Science — Pontifícia Universidade Católica do Paraná (2009 - 2012)**
-
 # Languages
 - **English:** ✍️👂👄😉Understands well, Speaks well, Reads well and Writes well. 
 - **Portuguese:** ✍️👂👄😎 Native Speaker
 - **Spanish:** ✍️👂🙂Understands reasonably, Reads well
 
+-----------
 # Game Jams
 👩‍💻**Global Game Jam < Participant >:**
 She participated in more than 10 editions and was considered a veteran among the participants at the Curitiba location. The Curitiba location is one of the biggest sites for this event.
@@ -49,7 +46,7 @@ She participated in more than 10 editions and was considered a veteran among the
 During the specialization every time she had to make a new game for some class, she took the opportunity to make a game jam at itch.io.
 
 # Hobbies
-- 🎮 **Gaming:** She plays a lot of MMORPGs, but mainly Ragnarok Mobile: Eternal Love, where she's the leader leader of a 4fun guild. Which she does every week with a variety of players. Exceeds as Divine Avenger (a paladin 4th job) which she does the majority of the PvE instances and Luna Danseuse (a dancer 4th job) for the PvP instances. In both classes, she tries to be more supportive and tank for the team, than the main DPS. You can check her guild's digital garden [here](https://s2-kawaii-vault.vercel.app)
+- 🎮 **Gaming:** She plays a lot of MMORPGs, but mainly Ragnarok Mobile: Eternal Love, where she's the leader of a 4fun guild. Which she does every week with a variety of players. Exceeds as Divine Avenger (a paladin 4th job) which she does the majority of the PvE instances and Luna Danseuse (a dancer 4th job) for the PvP instances. In both classes, she tries to be more supportive and tank for the team, than the main DPS. You can check her guild's digital garden [here](https://s2-kawaii-vault.vercel.app)
 
 - 🧶 **Knitting & Crochet:** Has self-taught both of the crafts and has more than 10 years of experience in knitting and 5+ years of crochet. The major difficulty was the fact she is a left-handed person, and in the early period, she didn’t know English so it was very challenging. During these years both crafts have trained her to see recurring patterns and write them for her future self and other people
 
