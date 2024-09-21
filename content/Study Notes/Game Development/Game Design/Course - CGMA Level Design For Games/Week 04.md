@@ -1,5 +1,10 @@
-
-# Plataforming 
+---
+tags:
+  - LevelDesign
+  - CGMA
+draft: "true"
+---
+# Platforming 
 
 Platforming refers to gameplay mechanics that involve the player character jumping over or navigating across platforms and obstacles
 
@@ -124,3 +129,7 @@ Design the layout and structure of your blockout in a way that naturally guides 
 Well-designed transition spaces ensure a cohesive and immersive experience for players, preventing jarring transitions and enhancing the overall flow of the level
 
 # Don't tell me, show me
+
+# Assignment
+[[Week 04 - Assignment.canvas|Week 04 - Assignment Canvas Reference]]
+[Week 04 - Drive Delivery]

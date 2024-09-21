@@ -1,3 +1,10 @@
+---
+tags:
+  - LevelDesign
+  - CGMA
+draft: "true"
+---
+
 # Planning Phase
 A documentation to help the future phase
 - Description of the place and the major plot
@@ -66,3 +73,6 @@ You want to landmarks, POIs and focal points to be very distinctive
 Once you have a rough layout, think about what blockout piece would help your level most. What would be repeated? 
 
 
+# Assignment
+[[Week 05 - Assignment.canvas|Week 05 + 06- Assignment Canvas Reference]]
+[Week 05 + 06 - Drive Delivery]

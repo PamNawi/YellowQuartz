@@ -1,3 +1,9 @@
+---
+tags:
+  - LevelDesign
+  - CGMA
+draft: "true"
+---
 # Key Goals for Level Design
 - Player Engagement:
 	- Keep the player engaged and captivated

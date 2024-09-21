@@ -1,3 +1,10 @@
+---
+tags:
+  - LevelDesign
+  - CGMA
+draft: "true"
+---
+
 # Bring Your Level to Life
 
 Add small details to your blockouts to help immersion

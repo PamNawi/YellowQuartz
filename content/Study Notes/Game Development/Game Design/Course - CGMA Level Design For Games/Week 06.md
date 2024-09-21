@@ -1,3 +1,10 @@
+---
+tags:
+  - LevelDesign
+  - CGMA
+draft: "true"
+---
+
 # Pathing and Transition Spaces
 Encourage player exploration by providing multiple paths and routes for players to choose from
 
@@ -89,3 +96,7 @@ Immersion
 Believability
 Communcation
 Gameplay Impact
+
+# Assignment
+[[Week 05 - Assignment.canvas|Week 05 + 06- Assignment Canvas Reference]]
+[Week 05 + 06 - Drive Delivery]

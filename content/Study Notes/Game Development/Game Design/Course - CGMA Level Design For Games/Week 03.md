@@ -1,3 +1,10 @@
+---
+tags:
+  - LevelDesign
+  - CGMA
+draft: "true"
+---
+
 # Player Goals
 - Set Clear objectives for the player
 - Feedback
@@ -114,3 +121,7 @@ The use of environmental elements, such as the level design, objects and scenery
 - Design a world worth of exploring
 - Consistent languages
 - "Leave some breadcrumbs for the player to discover"
+
+# Assignment
+[[Week 03 - Assignment.canvas|Week 03 - Assignment Canvas Reference]]
+[Week 03 - Drive Delivery]

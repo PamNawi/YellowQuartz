@@ -1,3 +1,9 @@
+---
+tags:
+  - LevelDesign
+  - CGMA
+draft: "true"
+---
 
 # Creating your Visual Style
 
@@ -96,3 +102,6 @@ By collecting and referencing to these types of references, you can create a mor
 Do not underestimate the planning stages, research and collecting solid reference for your work. It makes a big difference
 
 
+# Assignment
+[[Week 02 - Assignment.canvas|Week 02 - Assignment Canvas Reference]]
+[Week 02 - Drive Delivery]
