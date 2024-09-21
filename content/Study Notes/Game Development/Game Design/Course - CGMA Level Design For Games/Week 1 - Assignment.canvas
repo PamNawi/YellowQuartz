@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"ce7124c6bddccef8","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711180455.png","x":-400,"y":-340,"width":266,"height":399},
+		{"id":"8e861d92558a0d82","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711180509.png","x":-80,"y":-340,"width":308,"height":400},
+		{"id":"431549fda199b647","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711180529.png","x":260,"y":-340,"width":225,"height":400},
+		{"id":"9253d8a517eeb730","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711180550.png","x":-430,"y":100,"width":326,"height":400},
+		{"id":"800fd3911d7cc845","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711180718.png","x":260,"y":100,"width":225,"height":400},
+		{"id":"51c791a85096555e","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711180620.png","x":-59,"y":100,"width":267,"height":400},
+		{"id":"a5b572f4d804ba0f","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711180901.png","x":520,"y":-340,"width":269,"height":399},
+		{"id":"52ea4f28059cc06c","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711180916.png","x":520,"y":100,"width":330,"height":400},
+		{"id":"819d0be54f52237c","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711181000.png","x":850,"y":-340,"width":269,"height":400},
+		{"id":"9a4b89ef7a92992e","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711181337.png","x":900,"y":100,"width":400,"height":197},
+		{"id":"0c27107e6e4ccfe5","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711181354.png","x":900,"y":320,"width":400,"height":222},
+		{"id":"ff21ec8f4e14f15f","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711181408.png","x":1326,"y":118,"width":400,"height":345},
+		{"id":"e253f1e37debc00c","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711181611.png","x":1326,"y":500,"width":400,"height":282},
+		{"id":"b0be7214c5695d7e","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711181634.png","x":1760,"y":500,"width":400,"height":202},
+		{"id":"7ab3e3493d8438b4","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711181652.png","x":1760,"y":740,"width":400,"height":253},
+		{"id":"ea344510100a8013","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711181714.png","x":1760,"y":121,"width":360,"height":342},
+		{"id":"8fe74e10a4254648","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711181848.png","x":2160,"y":121,"width":400,"height":198},
+		{"id":"9418a4ad51fc52d6","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711181929.png","x":2200,"y":388,"width":400,"height":224},
+		{"id":"6edce4a469b3291d","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711204509.png","x":1760,"y":1020,"width":400,"height":300},
+		{"id":"17f46a446f59130d","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240711204758.png","x":900,"y":580,"width":400,"height":235},
+		{"id":"c423d30b4848643f","type":"text","text":"Shirako River","x":1314,"y":-123,"width":250,"height":60},
+		{"id":"0ce47bf5b9d4fd20","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240713170140.png","x":-400,"y":-780,"width":200,"height":400},
+		{"id":"94a3d91e7219403b","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240713170203.png","x":-180,"y":-780,"width":266,"height":400},
+		{"id":"b2950fde51a18b8f","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240713225730.png","x":2200,"y":702,"width":248,"height":400},
+		{"id":"568a335fd2a2de90","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240713225745.png","x":2480,"y":702,"width":400,"height":267},
+		{"id":"12f00f49bc024ff0","type":"file","file":"Study Notes/Game Development/Game Design/Course - CGMA Level Design For Games/_Images/Pasted image 20240713225759.png","x":2480,"y":993,"width":399,"height":266}
+	],
+	"edges":[]
+}

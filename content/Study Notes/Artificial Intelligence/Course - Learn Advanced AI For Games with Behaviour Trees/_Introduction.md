@@ -21,7 +21,7 @@ This sections explains and builds the foundation of Behaviour Trees and the API.
 [[1. Behavior Tree Basic Concepts]]
 
 # Section 2 - Advanced Behaviours
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐ **✔️**
 This section expands the concepts presented on the first one and also presents a couple of challenges to be programmed. Its very useful like the first one.
 
 [[2. Advanced Behaviours]]
