@@ -3,6 +3,9 @@ tags:
   - LevelDesign
   - Courses
   - CGMA
+title: CGMA Level Design Course
+aliases:
+  - CGMA Level Design Course
 ---
 I took the [CGMaser Academy Level Design For Games](https://www.gameart.cgmasteracademy.com/courses/level-design-for-games) course on July 2024 with Shane Canning as a professor. This was a course focused on Level Design and each week of course we had to do an assignment to show what we learned that week.
 

@@ -5,9 +5,9 @@ tags:
   - Unity
   - TheLostGoblins
   - Blocktober
-title: The Lost Goblins
+title: The Lost Robbers
 aliases:
-  - The Lost Goblins
+  - The Lost Robbers
 ---
 Its a small project that I started to build for Blocktober 2024. I wanna a small game just so I could train and learn more on Level Design. I pick to revive an old idea: The Lost Vikings, but with goblins. The idea here was to explore how to build an environment for multiple characters traverse.
 
