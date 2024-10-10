@@ -23,4 +23,3 @@ draft: "true"
 - Gameplay Variety and Progression
 	- Introducing new mechanics, challenges and environments to the players
 	- Rewarding with a sense of accomplishment 
-	- 
